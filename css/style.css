@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    height: 1000px;
+    margin:20px 40px auto;
+}
+
+
+/* debug */
+.container {
+    height: 2000px;
+    background-color: red;
+}
+
+.vetrina  {
+    height: 900px;
+    background-color: blue;
+    float: left;
+
+}
+
+
+
+
+
+
+
+
+/* fine debug */
+
+.container {
+    margin: 5px;
+}
+
+.clearfix::after {
+    display: table;
+    content: " ";
+    clear: both;
+}
+
+.vetrina {
+    width: calc(100% / 3 - 20px);
+    margin-bottom: 130px;
+}
+
+.center{
+    margin: 0px 30px ;
+}
