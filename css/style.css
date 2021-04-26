@@ -5,7 +5,6 @@
 }
 
 main {
-    height: 1000px;
     margin:20px 40px auto;
 }
 
@@ -69,6 +68,14 @@ p {
     left: 80px;
 }
 
+.target-sosten-only {
+    color:white;
+    background-color:#00875a;
+    position: absolute;
+    top: 75%;
+    left: 0;
+}
+
 .preferiti {
     background-color: white;
     font-size: 50px;
@@ -83,7 +90,7 @@ img {
     height: 80%;
 }
 
-.vetrina .offerta {
+.offerta {
     color: red;
 }
 
