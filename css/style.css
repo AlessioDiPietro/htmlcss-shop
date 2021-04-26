@@ -7,6 +7,10 @@ main {
     margin:20px 40px auto;
 }
 
+img {
+    width: 100%;
+    height: 80%;
+}
 
 /* debug */
 .container {
@@ -31,7 +35,6 @@ main {
 /* fine debug */
 
 .container {
-    margin: 5px;
 }
 
 .clearfix::after {
