@@ -51,3 +51,20 @@ img {
 .center{
     margin: 0px 30px ;
 }
+
+
+
+/* hover */
+.secondaria {
+    display: none;
+}
+
+.vetrina:hover .primaria {
+    display: none;
+}
+
+.vetrina:hover .secondaria {
+    display: block;
+}
+
+/* fine hover */
