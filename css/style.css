@@ -12,7 +12,7 @@ p {
     margin-bottom: 50px;
 }
 
-/* debug */
+/* debug  */
 .container {
     height: 2000px;
     background-color: red;
@@ -22,12 +22,6 @@ p {
     height: 900px;
     background-color: blue;
 }
-
-
-
-
-
-
 
 
 /* fine debug */
@@ -94,8 +88,10 @@ img {
     color: red;
 }
 
-
-
+.pubb {
+    background-color:#5ab451 ;
+    line-height: 100px;
+}
 
 /* hover */
 .secondaria {
